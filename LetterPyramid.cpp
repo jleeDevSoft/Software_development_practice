@@ -43,7 +43,6 @@ void letterPyramid(string str)
 }
 int main()
 {
-	string testcase1 = "abdefghijklmnop";
 	return 0;
 }
 
